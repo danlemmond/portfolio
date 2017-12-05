@@ -1,4 +1,4 @@
-+++
+<!-- +++
 # Recent and Upcoming Talks widget.
 widget = "talks"
 active = true
@@ -18,5 +18,5 @@ count = 10
 #   1 = Detailed
 list_format = 0
 
-+++
++++ -->
 
