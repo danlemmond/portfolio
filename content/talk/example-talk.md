@@ -1,5 +1,5 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = "2016-04-20T00:00:00"  # Schedule page publish date.
 
 title = "Example Talk"
 time_start = 2030-06-01T13:00:00
