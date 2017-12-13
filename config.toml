@@ -1,4 +1,4 @@
-baseurl = "https://www.danlemmond.com/"
+baseurl = "/"
 title = "Dan Lemmond"
 copyright = "&copy; 2017 Dan Lemmond"
 theme = "academic"
